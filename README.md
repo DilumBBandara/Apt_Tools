@@ -9,3 +9,9 @@
 
 
 Version: 1.1
+
+<html>
+<body>
+<br><img src="IMG2.jpg">
+</body>
+</html>
