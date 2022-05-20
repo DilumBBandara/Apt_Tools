@@ -6,3 +6,6 @@
       cd Apt_Tools
       python setup.py
       python apt_tools.py
+
+
+Version: 1.2
